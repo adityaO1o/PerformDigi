@@ -33,7 +33,7 @@ const HeroSection: React.FC = () => {
               <div className="absolute -bottom-8 left-20 w-72 h-72 bg-secondary/30 rounded-full mix-blend-multiply filter blur-2xl opacity-70 animate-blob animation-delay-4000"></div>
               <div className="relative">
                 <img 
-                  src="/public/marketing.webp" 
+                  src="/public/marketinghero.jpg" 
                   alt="Digital Marketing Services" 
                   className="relative rounded-lg shadow-xl w-full h-auto"
                 />
